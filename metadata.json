@@ -1,0 +1,7 @@
+{
+  "name": "LingoAI - Intelligent Multilingual Translator App",
+  "description": "A professional-grade AI translator powered by Gemini, supporting dozens of languages with context-aware accuracy, document translation, and text-to-speech capabilities.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
